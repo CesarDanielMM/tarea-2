@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Registros>
+
+ <registro id="1">
+ <reg>registro 1 </reg>
+ <nombre>Cesar Martinez</nombre>
+ <usuario>Cesar123</usuario>
+ <contraseña>321423</contraseña>
+ <pais>Guatemala</pais>
+
+ </registro>
+
+ <registro id="2">
+  <reg>registro 2 </reg>
+ <nombre>David Lopez</nombre>
+ <usuario>Dlopez</usuario>
+ <contraseña>433543</contraseña>
+  <pais>Mexico</pais>
+ </registro>
+
+ <registro id="3">
+  <reg>registro 3 </reg>
+ <nombre>Francisco Carballo</nombre>
+ <usuario>FCarballo7</usuario>
+ <contraseña>765462</contraseña>
+  <pais>Canada</pais>
+
+ </registro>
+
+ <registro id="4">
+  <reg>registro 4 </reg>
+ <nombre>Jose Santizo</nombre>
+ <usuario>Jose-99</usuario>
+ <contraseña>323563</contraseña>
+  <pais>Honduras</pais>
+ </registro>
+
+</Registros>

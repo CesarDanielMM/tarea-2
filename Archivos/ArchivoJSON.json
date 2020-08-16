@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "registro 1 ",
+    "carnet": 201975431,
+    "facultad": "ingenieria",
+    "inscrito2020": true,
+    "creditos": 50
+
+  },
+  {
+    "nombre": "registro 2 ",
+    "carnet": 201634532,
+    "facultad": "ingenieria",
+    "inscrito2020": false,
+    "creditos": 190
+  },
+  {
+    "nombre": "registro 3 ",
+    "carnet": 201713211,
+    "facultad": "ingenieria",
+    "inscrito2020": false,
+    "creditos": 150
+  },
+  {
+    "nombre": "registro 4 ",
+    "carnet": 201843212,
+    "facultad": "ingenieria",
+    "inscrito2020": false,
+    "creditos": 125
+  }
+]
